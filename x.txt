@@ -1,0 +1,604 @@
+bad	detrimental; pernicious; deleterious; adverse	
+big	substantial; considerable; significant; extensive; monumental	
+good	exemplary; commendable; laudable; meritorious; exemplary	
+very	exceedingly; remarkably; exceptionally; extraordinarily	
+a lot	considerably; substantially; extensively; abundantly	
+get	acquire; obtain; procure; secure; attain	
+make	create; construct; fabricate; manufacture; generate	
+do	execute; perform; accomplish; undertake; conduct	
+go	proceed; advance; traverse; migrate; venture	
+come	arrive; approach; emerge; materialize; manifest	
+say	articulate; express; convey; declare; pronounce	
+think	contemplate; deliberate; ponder; reflect; consider	
+know	comprehend; discern; recognize; perceive; understand	
+see	observe; perceive; witness; discern; behold	
+look	examine; scrutinize; inspect; observe; survey	
+want	desire; require; necessitate; aspire; covet	
+need	require; necessitate; demand; mandate	
+like	appreciate; favor; prefer; admire; relish	
+use	utilize; employ; implement; harness; deploy	
+work	function; operate; collaborate; endeavor; toil	
+show	demonstrate; exhibit; illustrate; reveal; manifest	
+give	provide; furnish; bestow; confer; contribute	
+take	acquire; seize; procure; appropriate; extract	
+find	discover; locate; identify; uncover; ascertain	
+start	commence; initiate; embark; inaugurate; launch	
+stop	cease; terminate; conclude; discontinue; halt	
+help	assist; facilitate; support; aid; collaborate	
+ask	inquire; request; solicit; petition; query	
+tell	inform; notify; communicate; relay; convey	
+try	attempt; endeavor; strive; undertake; pursue	
+put	place; position; situate; install; establish	
+keep	maintain; preserve; retain; sustain; uphold	
+turn	rotate; pivot; transform; convert; redirect	
+move	relocate; transfer; migrate; maneuver; transition	
+run	operate; manage; administer; execute; sprint	
+walk	stroll; traverse; proceed; meander; pace	
+talk	converse; communicate; discourse; discuss; articulate	
+play	engage; participate; perform; execute; recreate	
+live	reside; inhabit; exist; dwell; subsist	
+feel	experience; perceive; sense; undergo; encounter	
+seem	appear; manifest; suggest; indicate; imply	
+call	summon; designate; invoke; contact; telephone	
+become	transform; evolve; develop; emerge; materialize	
+leave	depart; exit; abandon; relinquish; vacate	
+bring	transport; deliver; convey; present; introduce	
+build	construct; erect; establish; develop; assemble	
+buy	purchase; acquire; procure; invest; obtain	
+change	modify; alter; transform; revise; adapt	
+cut	sever; slice; reduce; diminish; truncate	
+end	conclude; terminate; finalize; culminate; cease	
+follow	pursue; track; succeed; comply; adhere	
+grow	expand; develop; flourish; increase; proliferate	
+happen	occur; transpire; materialize; unfold; manifest	
+include	encompass; incorporate; comprise; contain; embrace	
+increase	augment; enhance; amplify; escalate; intensify	
+join	unite; connect; affiliate; merge; participate	
+kill	eliminate; terminate; destroy; eradicate; assassinate	
+lose	forfeit; misplace; surrender; relinquish; squander	
+meet	encounter; convene; assemble; rendezvous; confront	
+open	unveil; initiate; commence; accessible; receptive	
+pay	compensate; remunerate; settle; disburse; contribute	
+read	peruse; examine; study; interpret; decipher	
+remember	recollect; recall; retain; commemorate; reminisce	
+return	revert; restore; reciprocate; yield; reimburse	
+send	transmit; dispatch; forward; convey; deliver	
+sit	occupy; position; reside; convene; preside	
+speak	articulate; communicate; address; proclaim; utter	
+spend	invest; allocate; expend; disburse; dedicate	
+stand	position; endure; tolerate; represent; symbolize	
+stay	remain; persist; continue; reside; linger	
+wait	anticipate; pause; delay; expect; linger	
+win	triumph; succeed; prevail; conquer; achieve	
+write	compose; draft; inscribe; document; transcribe	
+add	incorporate; supplement; append; contribute; augment	
+agree	concur; consent; align; harmonize; acquiesce	
+allow	permit; authorize; enable; facilitate; sanction	
+answer	respond; reply; address; resolve; clarify	
+appear	manifest; emerge; seem; materialize; surface	
+avoid	circumvent; evade; prevent; eschew; sidestep	
+begin	commence; initiate; embark; inaugurate; originate	
+believe	trust; accept; maintain; suppose; embrace	
+break	fracture; violate; interrupt; shatter; disrupt	
+carry	transport; bear; convey; support; sustain	
+catch	capture; apprehend; intercept; contract; grasp	
+choose	select; opt; decide; prefer; designate	
+clean	sanitize; purify; cleanse; sterilize; polish	
+close	conclude; seal; terminate; intimate; adjacent	
+consider	contemplate; evaluate; regard; deliberate; ponder	
+continue	persist; maintain; sustain; proceed; endure	
+control	regulate; manage; govern; command; manipulate	
+cook	prepare; culinary; concoct; broil; simmer	
+cost	expense; expenditure; fee; price; investment	
+cover	encompass; shield; protect; conceal; span	
+create	generate; produce; establish; innovate; devise	
+decide	determine; resolve; conclude; elect; settle	
+depend	rely; hinge; contingent; trust; count	
+describe	characterize; depict; illustrate; portray; delineate	
+develop	evolve; advance; cultivate; progress; mature	
+die	perish; expire; decease; succumb; terminate	
+drive	operate; motivate; compel; navigate; propel	
+early	premature; initial; prior; preceding; advance	
+easy	effortless; simple; accessible; straightforward; facile	
+eat	consume; ingest; devour; dine; nourish	
+enter	access; penetrate; commence; join; infiltrate	
+expect	anticipate; predict; await; suppose; foresee	
+explain	clarify; elucidate; expound; interpret; illuminate	
+fall	descend; decline; tumble; plummet; deteriorate	
+far	distant; remote; extensive; considerable; substantial	
+fast	rapid; swift; expeditious; accelerated; prompt	
+fill	occupy; saturate; replenish; populate; pervade	
+force	compel; coerce; pressure; mandate; propel	
+forget	overlook; neglect; omit; disregard; abandon	
+free	liberate; release; complimentary; unrestricted; available	
+full	complete; saturated; comprehensive; abundant; replete	
+hear	perceive; listen; detect; comprehend; acknowledge	
+hold	grasp; maintain; contain; conduct; support	
+hope	anticipate; aspire; expect; trust; desire	
+hurt	injure; damage; harm; wound; distress	
+idea	concept; notion; proposal; theory; insight	
+important	significant; crucial; vital; essential; paramount	
+kind	benevolent; compassionate; category; type; generous	
+large	substantial; extensive; considerable; immense; massive	
+last	final; endure; persist; ultimate; previous	
+late	delayed; tardy; recent; deceased; advanced	
+learn	acquire; master; discover; comprehend; absorb	
+level	degree; standard; tier; equilibrium; magnitude	
+light	illuminate; luminous; minimal; gentle; enlighten	
+long	extended; prolonged; extensive; enduring; lengthy	
+lot	considerable; abundance; portion; destiny; parcel	
+love	adore; cherish; affection; devotion; passion	
+low	minimal; reduced; inferior; subdued; base	
+nice	pleasant; agreeable; satisfactory; admirable; delightful	
+old	aged; ancient; former; obsolete; vintage	
+plan	strategy; scheme; blueprint; agenda; proposal	
+point	indicate; location; purpose; argument; moment	
+problem	issue; dilemma; challenge; difficulty; complication	
+reason	rationale; justification; cause; logic; motive	
+right	correct; appropriate; privilege; conservative; immediate	
+room	chamber; space; opportunity; accommodation; capacity	
+school	institution; academy; educate; train; discipline	
+short	brief; concise; limited; diminutive; inadequate	
+small	minute; modest; insignificant; compact; minor	
+sound	audio; stable; logical; emit; investigate	
+state	condition; declare; territory; government; specify	
+story	narrative; account; tale; report; level	
+study	examine; research; investigate; academic; analyze	
+system	method; structure; organization; network; procedure	
+time	duration; period; era; occasion; schedule	
+today	currently; presently; contemporary; modern; immediate	
+turn	rotate; opportunity; convert; redirect; alternate	
+understand	comprehend; grasp; appreciate; interpret; perceive	
+way	method; manner; route; approach; distance	
+week	period; seven days; hebdomadal; weekly; interval	
+word	term; expression; promise; news; vocabulary	
+year	annual; twelve months; period; age; vintage	
+about	concerning; regarding; approximately; pertaining; relating	
+above	superior; exceeding; overhead; beyond; transcending	
+after	subsequent; following; behind; later; pursuing	
+again	repeatedly; once more; anew; additionally; furthermore	
+against	opposing; contrary; versus; adjacent; resistance	
+all	entire; complete; universal; comprehensive; total	
+also	additionally; furthermore; moreover; likewise; similarly	
+always	perpetually; consistently; invariably; eternally; constantly	
+among	amid; between; within; surrounded; amongst	
+another	alternative; additional; different; separate; distinct	
+any	whatever; whichever; some; each; every	
+around	approximately; surrounding; encircling; nearby; encompassing	
+as	while; since; because; similar; during	
+at	located; positioned; during; toward; present	
+away	distant; absent; departed; removed; elsewhere	
+back	return; rear; previous; support; reverse	
+be	exist; constitute; remain; become; represent	
+because	since; due to; owing to; as a result; given	
+been	existed; occurred; experienced; remained; constituted	
+before	prior; preceding; previously; in advance; ahead	
+being	existence; creature; entity; individual; person	
+between	amid; among; connecting; separating; intermediate	
+both	each; two; dual; pair; together	
+but	however; nevertheless; except; although; yet	
+by	through; via; beside; near; according	
+came	arrived; approached; emerged; originated; developed	
+can	able; capable; possible; permitted; potential	
+come	arrive; approach; emerge; materialize; manifest	
+could	might; able; possible; potential; capable	
+day	period; time; era; date; daylight	
+did	performed; accomplished; executed; completed; achieved	
+does	performs; accomplishes; executes; completes; functions	
+doing	performing; executing; accomplishing; conducting; engaging	
+down	below; beneath; downward; reduced; depressed	
+during	throughout; while; amid; within; across	
+each	every; individual; respective; particular; separate	
+even	equal; level; although; indeed; despite	
+ever	always; at any time; forever; eternally; constantly	
+every	each; all; complete; entire; universal	
+first	initial; primary; foremost; earliest; premier	
+for	regarding; during; because; intended; supporting	
+from	originating; since; out of; away; derived	
+get	obtain; acquire; receive; become; understand	
+had	possessed; owned; experienced; obtained; held	
+has	possesses; owns; experiences; contains; holds	
+have	possess; own; experience; contain; hold	
+he	male individual; gentleman; person; man; fellow	
+her	female; woman; belonging to her; feminine; lady	
+here	present location; this place; current position; now; immediate	
+him	male person; gentleman; man; individual; fellow	
+his	"belonging to him; masculine; male possession; man&#x27;s; gentleman&#x27;s"	
+how	method; manner; way; process; means	
+i	myself; the speaker; first person; individual; person	
+if	whether; supposing; assuming; provided; given	
+in	within; inside; during; contained; surrounded	
+into	toward; inside; becoming; transforming; entering	
+is	exists; constitutes; represents; equals; remains	
+it	object; thing; item; subject; entity	
+its	belonging to it; possession; ownership; associated; related	
+just	recently; merely; exactly; fair; simply	
+know	understand; comprehend; recognize; realize; acknowledge	
+last	final; previous; recent; ultimate; endure	
+let	allow; permit; enable; cause; rent	
+like	similar; such as; enjoy; prefer; appreciate	
+made	created; manufactured; constructed; produced; caused	
+make	create; produce; cause; force; earn	
+man	gentleman; male; person; individual; human	
+may	might; possible; perhaps; allowed; permitted	
+me	myself; first person object; individual; person; speaker	
+more	additional; greater; increased; further; extra	
+most	majority; greatest; maximum; nearly all; predominant	
+my	belonging to me; personal; own; individual; private	
+new	recent; fresh; novel; modern; latest	
+no	negative; none; zero; refusal; absence	
+not	negative; opposite; contrary; absence; denial	
+now	currently; presently; immediately; at this moment; contemporary	
+of	belonging; concerning; from; about; regarding	
+off	away; removed; cancelled; disconnected; departed	
+on	upon; concerning; attached; activated; continuing	
+one	single; individual; unit; person; same	
+only	exclusively; merely; solely; just; single	
+or	alternatively; either; otherwise; possibly; perhaps	
+other	different; alternative; additional; remaining; separate	
+our	belonging to us; collective; shared; mutual; common	
+out	outside; away; absent; excluded; exhausted	
+over	above; across; finished; beyond; covering	
+own	possess; personal; individual; private; unique	
+people	individuals; persons; population; citizens; humanity	
+place	location; position; area; situation; establish	
+right	correct; proper; direction; privilege; immediately	
+said	stated; declared; expressed; mentioned; articulated	
+same	identical; similar; unchanged; equal; consistent	
+say	state; declare; express; mention; articulate	
+she	female; woman; lady; girl; feminine	
+should	ought; recommended; expected; proper; advisable	
+so	therefore; thus; very; consequently; accordingly	
+some	certain; particular; few; several; portion	
+still	yet; continuing; motionless; calm; nevertheless	
+than	compared to; rather than; exceeding; beyond; more	
+that	which; particular; specific; demonstrative; such	
+the	definite article; specific; particular; aforementioned; certain	
+their	belonging to them; collective; possession; group; plural	
+them	those people; objects; individuals; group; collective	
+then	subsequently; next; at that time; therefore; consequently	
+there	location; position; place; present; existing	
+these	particular; specific; current; demonstrative; present	
+they	those people; individuals; group; persons; collective	
+this	particular; specific; current; present; immediate	
+time	period; duration; moment; occasion; era	
+to	toward; until; in order; regarding; compared	
+too	also; excessively; extremely; additionally; as well	
+two	pair; couple; dual; double; binary	
+under	beneath; below; less than; subject to; covered	
+up	upward; higher; increased; awake; completed	
+us	ourselves; we; group; collective; together	
+very	extremely; highly; considerably; exceptionally; remarkably	
+was	existed; occurred; happened; remained; constituted	
+water	liquid; fluid; aqua; H2O; moisture	
+we	ourselves; us; group; collective; together	
+well	properly; thoroughly; healthy; satisfactory; successfully	
+were	existed; occurred; remained; constituted; happened	
+what	which; that; something; inquiry; whatever	
+when	while; at what time; during; whenever; as	
+where	location; place; position; situation; wherever	
+which	what; that; whichever; particular; specific	
+while	during; whereas; although; meanwhile; throughout	
+who	person; individual; which person; whoever; what person	
+why	reason; purpose; cause; explanation; justification	
+will	shall; future; determination; testament; desire	
+with	accompanying; using; having; alongside; together	
+would	might; could; used to; prefer; conditional	
+you	person; individual; recipient; addressee; yourself	
+your	belonging to you; personal; individual; own; possessive	
+able	capable; competent; skilled; qualified; proficient	
+accept	receive; acknowledge; agree; approve; admit	
+act	perform; behave; function; law; deed	
+age	years; era; period; mature; elderly	
+almost	nearly; practically; virtually; approximately; close	
+alone	solitary; isolated; only; single; unaccompanied	
+although	despite; even though; while; whereas; however	
+among	between; amid; within; surrounded; amongst	
+animal	creature; beast; organism; wildlife; fauna	
+anything	whatever; something; everything; all; any	
+area	region; zone; space; field; territory	
+around	surrounding; approximately; nearby; encircling; about	
+available	accessible; obtainable; free; ready; present	
+based	founded; established; located; grounded; situated	
+became	developed; transformed; evolved; turned; grew	
+bed	sleeping surface; resting place; foundation; layer; garden	
+began	started; commenced; initiated; originated; launched	
+behind	following; after; supporting; remaining; lagging	
+best	optimal; finest; superior; excellent; top	
+better	superior; improved; enhanced; preferable; greater	
+between	amid; among; connecting; separating; intermediate	
+black	dark; ebony; void; grim; pessimistic	
+body	physique; form; organization; group; main part	
+book	publication; volume; text; manual; reserve	
+box	container; package; compartment; ring; television	
+boy	male child; lad; youth; young man; son	
+called	named; summoned; telephoned; designated; termed	
+car	automobile; vehicle; transport; conveyance; motor	
+case	situation; instance; container; legal matter; example	
+child	offspring; youth; minor; kid; descendant	
+city	metropolis; municipality; urban area; town; center	
+class	category; group; lesson; social rank; quality	
+clear	obvious; transparent; unobstructed; evident; bright	
+club	organization; association; weapon; stick; group	
+color	hue; shade; tint; pigment; appearance	
+community	neighborhood; society; group; public; locality	
+complete	finish; entire; total; comprehensive; fulfill	
+computer	machine; device; processor; technology; system	
+country	nation; state; rural area; homeland; territory	
+course	path; direction; class; sequence; naturally	
+data	information; facts; statistics; details; evidence	
+death	demise; mortality; end; termination; fatality	
+difference	distinction; variation; disagreement; disparity; contrast	
+different	distinct; various; alternative; diverse; unique	
+door	entrance; exit; portal; gateway; opening	
+education	learning; schooling; instruction; training; knowledge	
+effect	result; consequence; impact; influence; outcome	
+example	instance; illustration; model; sample; case	
+experience	encounter; knowledge; expertise; undergo; familiarity	
+face	countenance; confront; front; surface; encounter	
+fact	reality; truth; information; detail; certainty	
+family	relatives; household; group; clan; lineage	
+few	several; some; limited; scarce; minority	
+field	area; domain; meadow; subject; sphere	
+file	document; record; folder; line; smooth	
+final	last; ultimate; conclusive; decisive; ending	
+fire	flame; combustion; discharge; dismiss; passion	
+foot	appendage; base; bottom; unit; infantry	
+form	shape; create; structure; type; document	
+free	liberate; complimentary; available; unrestricted; independent	
+friend	companion; ally; associate; buddy; acquaintance	
+front	forward; facade; beginning; face; leading	
+future	upcoming; tomorrow; prospect; destiny; potential	
+game	sport; contest; activity; entertainment; strategy	
+girl	female child; young woman; daughter; lass; maiden	
+government	administration; authority; state; regime; control	
+green	verdant; environmental; inexperienced; jealous; color	
+ground	earth; soil; basis; foundation; surface	
+group	collection; team; category; cluster; assembly	
+grow	develop; increase; expand; mature; cultivate	
+hand	appendage; assistance; worker; pointer; applause	
+happen	occur; transpire; chance; befall; materialize	
+head	leader; top; skull; chief; director	
+health	wellness; condition; fitness; soundness; vitality	
+hear	listen; perceive; learn; attend; auditory	
+heart	organ; center; core; emotion; courage	
+help	assist; aid; support; facilitate; serve	
+high	elevated; tall; intense; superior; expensive	
+history	past; chronicle; record; background; heritage	
+home	residence; house; domestic; origin; comfortable	
+hope	wish; expect; trust; optimism; aspiration	
+house	residence; dwelling; building; family; accommodate	
+however	nevertheless; yet; although; despite; but	
+human	person; individual; mortal; mankind; humane	
+information	data; details; knowledge; facts; intelligence	
+inside	interior; within; internal; indoor; contained	
+instead	alternatively; rather; in place of; substitute; replacement	
+interest	curiosity; concern; hobby; profit; stake	
+issue	problem; matter; publish; topic; concern	
+job	work; employment; position; task; occupation	
+keep	retain; maintain; continue; preserve; store	
+kind	type; caring; generous; gentle; variety	
+land	territory; ground; country; arrive; property	
+language	speech; tongue; communication; vocabulary; expression	
+law	rule; legislation; regulation; principle; legal	
+lead	guide; direct; metal; first; conduct	
+left	remaining; departed; liberal; direction; abandoned	
+legal	lawful; legitimate; judicial; authorized; valid	
+less	fewer; reduced; minus; inferior; smaller	
+letter	character; message; correspondence; epistle; symbol	
+life	existence; living; biography; vitality; experience	
+line	row; queue; boundary; telephone; profession	
+list	catalog; inventory; record; enumerate; register	
+live	exist; reside; active; broadcast; survive	
+local	regional; nearby; community; indigenous; limited	
+machine	device; apparatus; mechanism; equipment; system	
+man	male; person; human; gentleman; mankind	
+market	bazaar; economy; sell; demand; square	
+matter	issue; substance; concern; material; importance	
+member	participant; part; limb; component; associate	
+message	communication; note; meaning; dispatch; signal	
+method	approach; technique; way; system; procedure	
+mind	intellect; brain; opinion; care; object	
+money	currency; cash; wealth; finance; payment	
+month	period; four weeks; lunar cycle; time; duration	
+morning	dawn; early day; beginning; sunrise; forenoon	
+mother	parent; mom; origin; source; maternal	
+music	melody; harmony; sound; art; composition	
+name	title; designation; reputation; identity; specify	
+nature	environment; character; essence; outdoors; inherent	
+near	close; adjacent; approaching; almost; intimate	
+necessary	essential; required; needed; vital; mandatory	
+network	system; connection; web; organization; broadcast	
+never	not ever; at no time; absolutely not; eternally; impossible	
+news	information; report; update; media; intelligence	
+night	evening; darkness; late; after dark; nocturnal	
+nothing	none; zero; void; insignificant; absence	
+number	numeral; quantity; amount; figure; telephone	
+office	workplace; position; agency; room; function	
+often	frequently; regularly; commonly; repeatedly; usually	
+order	sequence; command; request; organization; decree	
+organization	group; structure; company; arrangement; institution	
+other	different; additional; alternative; remaining; separate	
+page	sheet; leaf; section; summon; attendant	
+paper	document; newspaper; material; essay; thin	
+part	portion; section; component; role; separate	
+party	celebration; group; political; gathering; participant	
+pass	succeed; exceed; approve; permit; travel	
+past	previous; former; history; beyond; elapsed	
+pattern	design; model; template; behavior; example	
+person	individual; human; character; body; someone	
+phone	telephone; call; device; communication; contact	
+picture	image; photograph; scene; describe; visualize	
+piece	part; portion; artwork; fragment; component	
+place	location; position; rank; home; situation	
+plant	vegetation; factory; establish; seed; equipment	
+police	law enforcement; constabulary; officers; authorities; patrol	
+policy	rule; procedure; insurance; strategy; guideline	
+political	governmental; civic; partisan; diplomatic; public	
+poor	impoverished; inadequate; unfortunate; inferior; needy	
+popular	well-liked; common; fashionable; widespread; favorite	
+position	location; job; stance; place; rank	
+possible	potential; feasible; maybe; conceivable; achievable	
+power	energy; strength; authority; control; electricity	
+present	current; gift; introduce; attend; now	
+president	leader; chief; head; executive; commander	
+pressure	force; stress; influence; weight; urgency	
+price	cost; value; expense; fee; worth	
+private	personal; confidential; individual; exclusive; secret	
+probably	likely; presumably; possibly; apparently; conceivably	
+process	procedure; method; progress; handle; series	
+product	item; result; merchandise; output; creation	
+production	manufacturing; creation; output; performance; yield	
+program	schedule; software; plan; show; course	
+property	possession; estate; characteristic; real estate; ownership	
+provide	supply; offer; furnish; give; deliver	
+public	community; open; government; people; general	
+purpose	intention; goal; reason; function; aim	
+quality	standard; characteristic; excellence; property; grade	
+question	inquiry; doubt; issue; interrogate; challenge	
+quite	rather; completely; very; fairly; entirely	
+race	ethnicity; competition; speed; rush; lineage	
+rate	speed; price; evaluate; proportion; degree	
+reach	arrive; extend; contact; achieve; scope	
+real	actual; genuine; authentic; true; concrete	
+really	actually; truly; very; genuinely; indeed	
+reason	cause; logic; explanation; motive; rationale	
+record	document; achievement; history; register; best	
+red	crimson; communist; angry; deficit; warning	
+reflect	mirror; consider; show; ponder; indicate	
+region	area; zone; territory; district; locality	
+relate	connect; associate; tell; correspond; concern	
+relationship	connection; association; romance; kinship; correlation	
+religious	spiritual; devout; sacred; pious; divine	
+remain	stay; continue; persist; endure; survive	
+report	account; document; inform; study; news	
+require	need; demand; necessitate; mandate; expect	
+research	study; investigation; explore; examine; inquiry	
+resource	asset; supply; material; means; reserve	
+respond	reply; react; answer; correspond; reciprocate	
+result	outcome; consequence; effect; conclusion; score	
+reveal	show; expose; disclose; uncover; display	
+rise	increase; ascend; emerge; stand; rebellion	
+risk	danger; chance; hazard; gamble; jeopardy	
+rock	stone; sway; excellent; music; foundation	
+role	function; part; character; position; responsibility	
+rule	regulation; govern; control; principle; standard	
+run	operate; manage; sprint; flow; candidate	
+safe	secure; protected; cautious; reliable; harmless	
+save	rescue; preserve; store; economize; except	
+science	knowledge; study; discipline; research; method	
+search	seek; look; hunt; explore; examine	
+second	next; moment; support; additional; time	
+section	part; division; area; segment; department	
+security	safety; protection; confidence; assurance; guards	
+sell	market; trade; convince; betray; vend	
+send	transmit; dispatch; mail; emit; forward	
+senior	elder; older; superior; final year; experienced	
+series	sequence; set; chain; succession; program	
+serious	grave; important; solemn; earnest; severe	
+serve	help; provide; work; deliver; function	
+service	assistance; work; maintenance; ceremony; utility	
+set	place; establish; group; fixed; determine	
+several	some; few; various; multiple; different	
+share	portion; distribute; participate; communicate; stock	
+shot	attempt; injection; photograph; bullet; drink	
+simple	easy; basic; plain; uncomplicated; modest	
+single	one; individual; unmarried; sole; separate	
+site	location; place; website; position; scene	
+situation	circumstance; condition; position; context; state	
+size	dimension; magnitude; extent; measurement; scale	
+skill	ability; talent; expertise; proficiency; craft	
+social	communal; interpersonal; societal; friendly; public	
+society	community; culture; organization; civilization; association	
+son	male offspring; boy; descendant; product; native	
+space	room; area; cosmos; gap; time	
+special	unique; particular; exceptional; extraordinary; specific	
+staff	employees; personnel; stick; rod; team	
+stage	phase; platform; theater; level; period	
+standard	norm; criterion; flag; regular; quality	
+star	celebrity; celestial body; outstanding; leading; symbol	
+start	begin; initiate; commence; launch; origin	
+station	stop; post; position; broadcast; assign	
+step	pace; stage; measure; stair; action	
+stop	cease; halt; end; prevent; station	
+store	shop; save; warehouse; supply; repository	
+story	tale; narrative; account; floor; report	
+strategy	plan; approach; tactic; method; scheme	
+street	road; avenue; public; urban; sidewalk	
+strong	powerful; robust; intense; durable; firm	
+structure	building; organization; framework; arrangement; construct	
+student	pupil; learner; scholar; apprentice; disciple	
+stuff	things; material; substance; nonsense; fill	
+style	fashion; manner; elegance; design; type	
+subject	topic; citizen; course; theme; expose	
+success	achievement; triumph; accomplishment; prosperity; victory	
+such	like; similar; so; particular; same	
+summer	season; warm months; vacation; prime; youth	
+support	help; assist; backing; sustain; maintain	
+sure	certain; confident; reliable; definitely; secure	
+surface	exterior; top; appearance; emerge; area	
+system	method; organization; structure; network; arrangement	
+table	furniture; chart; postpone; flat surface; board	
+talk	speak; discuss; conversation; lecture; negotiate	
+task	job; assignment; duty; work; mission	
+tax	levy; burden; strain; charge; assessment	
+teach	educate; instruct; show; train; inform	
+teacher	educator; instructor; mentor; professor; tutor	
+team	group; crew; squad; unite; collaborate	
+technology	technique; innovation; science; method; advancement	
+term	period; word; condition; semester; expression	
+test	examine; trial; assessment; quiz; challenge	
+text	writing; book; message; content; script	
+theory	hypothesis; idea; principle; speculation; concept	
+thing	object; item; matter; situation; entity	
+third	ordinal; one-third; tertiary; bronze; additional	
+though	although; however; even if; despite; nevertheless	
+thought	idea; consideration; opinion; reflection; mind	
+through	via; across; by means of; throughout; finished	
+throw	hurl; toss; cast; pitch; confuse	
+thus	therefore; consequently; so; accordingly; hence	
+top	summit; best; highest; peak; superior	
+total	complete; entire; sum; absolute; comprehensive	
+town	municipality; city; village; community; urban	
+trade	commerce; exchange; profession; swap; business	
+training	instruction; practice; education; exercise; preparation	
+travel	journey; trip; move; tour; transportation	
+treat	handle; cure; entertain; regard; special	
+treatment	therapy; handling; care; processing; behavior	
+trial	test; experiment; hearing; attempt; ordeal	
+trouble	problem; difficulty; distress; bother; effort	
+true	accurate; genuine; real; faithful; correct	
+truth	reality; fact; honesty; accuracy; verity	
+type	kind; category; sort; print; model	
+understand	comprehend; grasp; realize; appreciate; perceive	
+union	alliance; marriage; joining; organization; unity	
+unit	component; section; apartment; measure; individual	
+university	college; institution; academy; higher education; campus	
+unless	except; if not; without; save; until	
+until	till; before; up to; unless; while	
+upon	on; over; when; immediately; concerning	
+user	operator; customer; consumer; client; person	
+value	worth; importance; principle; price; appreciate	
+view	opinion; sight; perspective; regard; scene	
+visit	call; stay; inspection; tour; attend	
+voice	sound; opinion; express; vote; articulate	
+war	conflict; battle; struggle; campaign; fight	
+watch	observe; timepiece; guard; monitor; care	
+web	"internet; network; spider&#x27;s creation; entangle; mesh"	
+website	site; page; platform; portal; domain	
+white	pale; Caucasian; pure; blank; innocent	
+whole	entire; complete; total; intact; all	
+wide	broad; extensive; large; spacious; comprehensive	
+wife	spouse; partner; woman; married; consort	
+window	opening; pane; opportunity; display; portal	
+within	inside; during; among; not exceeding; internal	
+without	lacking; outside; unless; beyond; absent	
+woman	female; lady; adult; person; wife	
+wonder	marvel; question; ponder; amazement; curious	
+word	term; promise; news; expression; utterance	
+work	labor; function; employment; effort; creation	
+world	earth; globe; universe; society; realm	
+worry	concern; anxiety; trouble; fret; distress	
+write	compose; record; author; inscribe; communicate	
+wrong	incorrect; immoral; mistaken; improper; evil	
+young	youthful; junior; new; inexperienced; recent	
